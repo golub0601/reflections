@@ -3,3 +3,5 @@ kada se inicijalizuje git folder (git init) imamo respiratory u kojem jos nemamo
 i ako bi smo pokrenulii git log u praznom respiratoriju dobili bi smo upozorenje
 staging area se koristi kao prelazni prostor izmedju direktorijuma i resiratory foldera
 git add *file se koristi za dodavanje file u staging area
+koristeci komndu git diff bez argumenata uporedjujemo staging are sa radnim direktorijumom i tako vidimo sta zelimo da sacuvamo
+koristeci git diff --staging uporedjujemo staging are sa zadnjim commitom koji smo napravili da bi uporedili sta tacno zelimo da sacuvamo, tj koliko smo promijenili
