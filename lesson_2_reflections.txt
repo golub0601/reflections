@@ -5,3 +5,8 @@ staging area se koristi kao prelazni prostor izmedju direktorijuma i resiratory 
 git add *file se koristi za dodavanje file u staging area
 koristeci komndu git diff bez argumenata uporedjujemo staging are sa radnim direktorijumom i tako vidimo sta zelimo da sacuvamo
 koristeci git diff --staging uporedjujemo staging are sa zadnjim commitom koji smo napravili da bi uporedili sta tacno zelimo da sacuvamo, tj koliko smo promijenili
+komandom git branch mozemo vidjeti koli sve branchovi postoje
+komandom git checkout branchIme* idemo na branch koji ima brachIme ime
+komandom git branch Ime pravimo branch sa imenom Ime
+branchovi se koriste kada od radne verzije idemo u dva (ili vise) smjera koja nemaju veze jedan sa drugim ali su oba rizicna, tako da mozemo da radimmo na dva problema sa dvije verzije,
+na kraju mozemo spojiti to sa bilo kojim branchom i dobiti finalnu verziju
