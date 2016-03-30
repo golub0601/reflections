@@ -1,0 +1,8 @@
+lakse se nalaze grekse u programu, pogotovu ako nismo sigurni sta smo sve mijenjali
+nije bas lako navici se ali vremenom ce se isplatiti
+cuvanje starih verzija moze mi ustedjeti vrijeme i trud ukoliko naidjem na greske prilikom izrade nove verzije
+prilikom cuvanja verzija na GITu imamo kontrolu nad verzijama, na kojima zelimo tacno velike promjene
+u GIT imamo prednost sto sa svakim comitom mozemo vidjeti i sacuvati sve fajlove koji su mijenjani sto dosta olaksava u odnosu na pojedinacno trazenje fajlova
+komanda git log se koristi da se nadju sve sacuvane verzije, dok se komanda git diff sa dvija argumenta koristi za uporedjivanje dvije verzije
+sa lakim vracanjem na stare verzije lako mogu rizikovati sa uvodjem novih stvari koje mi mogu unistiti program, a da ne poludim dok ponovo ne proradi
+zelim pokusati da u GITu cuvam stare verzije programa i bukvalno jedva cekam kad cu traziti gresku medju starijim verzijama :D
