@@ -1,0 +1,5 @@
+kada se inicijalizuje git folder (git init) imamo respiratory u kojem jos nemamo comit , moramo sami napraviti jer mozda necemo sve da cuvamo, a ne bismo mogli dodati poruku uz comit ako bi sam cuvao,
+ koristeci (git status) u svakom trenutku mozemo vidjeti  status naseg respiratorija 
+i ako bi smo pokrenulii git log u praznom respiratoriju dobili bi smo upozorenje
+staging area se koristi kao prelazni prostor izmedju direktorijuma i resiratory foldera
+git add *file se koristi za dodavanje file u staging area
