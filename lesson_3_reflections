@@ -3,3 +3,9 @@ When would you want to use a remote repository rather than keeping all your work
   Kada imam nestabilan komp, kada radim sa vise ljudi na istom projektu, ili na vise kompjutera
 
 komande push i pull imaju dva argumenta prvi je remote a drugi je branch
+
+imamo fork, clone i branch
+-branch kada zelimo da napravimo novi cvor sa izmjenama za koje nismo sigurni
+-clone sa github i na njega
+-fork sa github na github
+
